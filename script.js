@@ -1,10 +1,16 @@
-// AUFGABE 8 - leicht
-let isPalindrome = function(x) {
-    x = String(x)
-    let x_split = x.split('')
-    console.log(x_split)
-    console.log(x_split.reverse())
-    return String(x_split) === String(x_split.reverse())
+// AUFGABE 191 - leicht - erster Sinn
+/**
+ * @param {number} n
+ * @return {number}
+ */
+let hammingWeight = function(n) {
+    let zahl = 0
+    let bin = n.toString(2)
+    for (let i = 0; i < bin.length; i++) {
+        if (bin[i] == 1) {
+            zahl++
+        }
+    }
+    return zahl
 };
-
-console.log(isPalindrome(123))
+console.log(hammingWeight(11))
