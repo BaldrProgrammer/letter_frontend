@@ -1,9 +1,14 @@
-// AUFGABE 191 - leicht - zweiter Sinn (nicht meiner, ich habe ihn von chatgpt genommen)
+// AUFGABE 231 - leicht - erster Sinn
 /**
  * @param {number} n
- * @return {number}
+ * @return {boolean}
  */
-let hammingWeight = function(n) {
-    return n.toString(2).split('1').length-1
+var isPowerOfTwo = function(n) {
+    for (let i = 0; i <= 31; i++) {
+        if (2 ** i === n) {
+            return true
+        }
+    }
+    return false
 };
-console.log(hammingWeight(11))
+console.log(isPowerOfTwo(3))
