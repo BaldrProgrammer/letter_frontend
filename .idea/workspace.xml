@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d36c521d-b1a8-4a37-9105-fd40316837b6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="5" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BaldrProgrammer&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BaldrProgrammer/letter_frontend.git&quot;,
+    &quot;accountId&quot;: &quot;586e1ade-4e55-4c0d-8c93-558dfc6345da&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.4451048820170115E-234" />
+      <entry key="MS500" value="1.7060033264602253E-47" />
+      <entry key="S2" value="2.032333464878736E-12" />
+      <entry key="S5" value="2.1048068782503384E-5" />
+      <entry key="S10" value="0.0046249538316954645" />
+      <entry key="S30" value="0.24598323678618736" />
+      <entry key="S60" value="1.1172755188887293" />
+      <entry key="M2" value="3.66071266794837" />
+      <entry key="M5" value="12.793615893050639" />
+      <entry key="M10" value="25.115847516014803" />
+      <entry key="M15" value="33.87418482785553" />
+      <entry key="M30" value="49.68060770624686" />
+      <entry key="H1" value="63.554924189866085" />
+      <entry key="H2" value="73.33498531773522" />
+      <entry key="H4" value="79.24431455039455" />
+      <entry key="D1" value="84.80896860452151" />
+      <entry key="W1" value="85.8281686959576" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0004066287943754" />
+      <entry key="S2" value="1.14200365810107" />
+      <entry key="S5" value="1.4580810761470433" />
+      <entry key="S10" value="1.6820688858657444" />
+      <entry key="S30" value="2.2610024552691455" />
+      <entry key="S60" value="3.801919354424729" />
+      <entry key="M2" value="7.188799954649546" />
+      <entry key="M5" value="14.589081079193546" />
+      <entry key="M10" value="21.86234094539905" />
+      <entry key="M15" value="26.35029536040198" />
+      <entry key="M30" value="33.593691972249204" />
+      <entry key="H1" value="39.35404428397186" />
+      <entry key="H2" value="43.19993550772702" />
+      <entry key="H4" value="45.46117381581583" />
+      <entry key="D1" value="47.55562031907916" />
+      <entry key="W1" value="47.935968943582544" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.010525262319263207" />
+      <entry key="MS500" value="0.4023409517324562" />
+      <entry key="S2" value="0.9045061360321446" />
+      <entry key="S5" value="1.3237550444286457" />
+      <entry key="S10" value="1.6058310377066367" />
+      <entry key="S30" value="2.467666007253202" />
+      <entry key="S60" value="4.883483978309587" />
+      <entry key="M2" value="10.811245016736965" />
+      <entry key="M5" value="27.345098287533222" />
+      <entry key="M10" value="46.946048418811245" />
+      <entry key="M15" value="60.196963346711534" />
+      <entry key="M30" value="83.25534285420561" />
+      <entry key="H1" value="102.89735957917641" />
+      <entry key="H2" value="116.52839827776032" />
+      <entry key="H4" value="124.70201532767247" />
+      <entry key="D1" value="132.36397735069497" />
+      <entry key="W1" value="133.76404942236243" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="32elphUglNxTEvJElSz66seMwJM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.script.js.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/administrator/letter_frontend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion.inline&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.24374.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d36c521d-b1a8-4a37-9105-fd40316837b6" name="Changes" comment="" />
+      <created>1757789103469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757789103469</updated>
+      <workItem from="1757789104565" duration="7645000" />
+      <workItem from="1757850045870" duration="25784000" />
+      <workItem from="1758025042331" duration="8718000" />
+      <workItem from="1758101825456" duration="4863000" />
+      <workItem from="1758121032297" duration="2138000" />
+      <workItem from="1758890247813" duration="1000" />
+      <workItem from="1758998300335" duration="4860000" />
+      <workItem from="1759518464219" duration="1000" />
+      <workItem from="1759691674297" duration="176000" />
+      <workItem from="1759694654650" duration="80000" />
+      <workItem from="1759761475607" duration="7000" />
+      <workItem from="1790690731382" duration="295000" />
+      <workItem from="1790691127524" duration="4379000" />
+      <workItem from="1790703514984" duration="811000" />
+      <workItem from="1790767360623" duration="8000" />
+      <workItem from="1790807646167" duration="1048000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/letter_frontend$main.coverage" NAME="main Coverage Results" MODIFIED="1757791917620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
