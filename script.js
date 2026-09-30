@@ -1,13 +1,14 @@
-// AUFGABE 231 - leicht - erster Sinn
+// AUFGABE 231 - leicht - zweiter Sinn
 /**
  * @param {number} n
  * @return {boolean}
  */
-var isPowerOfTwo = function(n) {
-    for (let i = 0; i <= 31; i++) {
-        if (2 ** i === n) {
+let isPowerOfTwo = function (n) {
+    while (n >= 1) {
+        if (n === 1) {
             return true
         }
+        n /= 2
     }
     return false
 };
