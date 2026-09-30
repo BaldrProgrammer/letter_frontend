@@ -1,15 +1,17 @@
-// AUFGABE 231 - leicht - zweiter Sinn
+// AUFGABE 2620 - leicht
 /**
  * @param {number} n
  * @return {boolean}
  */
-let isPowerOfTwo = function (n) {
-    while (n >= 1) {
-        if (n === 1) {
-            return true
-        }
-        n /= 2
-    }
-    return false
+let zahl;
+var createCounter = function(n) {
+    zahl = n-1
+    return function() {
+        zahl++
+        return zahl
+    };
 };
-console.log(isPowerOfTwo(3))
+const counter = createCounter(10)
+console.log(counter()) // 10
+console.log(counter()) // 11
+console.log(counter()) // 12
